@@ -1,1 +1,1 @@
-print("Mensaje desde la rama PRINCIPAL 🧠")
+print("Este mensaje viene desde la rama PRINCIPAL")
