@@ -1,1 +1,1 @@
-print("Este mensaje viene desde la rama PRINCIPAL")
+print("Combinación de ramas lograda con éxito")
